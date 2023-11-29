@@ -1,4 +1,4 @@
 print("Hello World")
 print("O noua linie nou pentru faculta,fantastica pentru gta 5")
 print("New brench")
-print("New terminal")
+print("New terminal for add")
